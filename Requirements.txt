@@ -1,0 +1,39 @@
+Requirements
+
+Prerequisites
+
+Python 3.7+
+
+Jupyter Notebook
+
+Libraries
+
+The following Python libraries are required:
+
+tensorflow
+
+tensorflow_data_validation
+
+pandas
+
+matplotlib
+
+Install the dependencies using:
+
+pip install tensorflow tensorflow_data_validation pandas matplotlib
+
+Running the Notebook
+
+Clone this repository:
+
+git clone <repository-url>
+
+Navigate to the folder:
+
+cd <repository-folder>
+
+Open the notebook:
+
+jupyter notebook DTI6302_GNG5300_Assignment1.ipynb
+
+Follow the instructions in the notebook to execute each cell sequentially.
