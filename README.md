@@ -1,6 +1,6 @@
 # Mlops-USHospital
  A notebook for data validation, anomaly detection, and schema management using TensorFlow Data Validation (TFDV).
-Data Validation with TensorFlow Data Validation (TFDV)
+Data Validation with TensorFlow Data Validation (TFDV) Applicable to MLOps model monitoring stages — detects schema drift, anomalies, and distribution skew between training, evaluation, and serving datasets.
 
 This repository contains a Jupyter Notebook for performing comprehensive data validation using TensorFlow Data Validation (TFDV). The notebook is part of an assignment that utilizes the Diabetes 130-US hospitals dataset from the UCI Machine Learning Repository to demonstrate data validation techniques.
 
